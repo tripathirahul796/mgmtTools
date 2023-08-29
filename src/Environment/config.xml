@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application>
+    <connectionDriver>com.microsoft.sqlserver.jdbc.SQLServerDriver </connectionDriver>
+    <connectionString>
+        jdbc:sqlserver://localhost:1433;databaseName=Test2023;user=sysMgmt;password=sys123
+    </connectionString>
+
+    <logPath>
+        E:\JavaProj\ManagementTools\Logs
+
+    </logPath>
+</application>
